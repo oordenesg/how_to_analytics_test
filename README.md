@@ -16,7 +16,7 @@ In this app usually fares are 80% to drives and 20% to the company. Payment is s
 **Demand** = **Riders** or **Passengers**
 **Supply** = **Drivers** or **Driver Partners** 
 
-Some Basics Metrics
+## Some Basics Metrics
 
 **App Openings (Eyeballs)** = Customers who lauch the app looking for a riders. It is a good measure of demand
 
@@ -36,3 +36,25 @@ Some Basics Metrics
 
 **pETA (Predicted Estimated Time of Arrival)** = The expected time of arrival of that package
 **aETA (Average actual estimated time of arrival)** = The actual value of the time of arrival of the car.
+
+## Work Flow for the Customers ##
+
+Why some customers do not see any car?
+There are some reasons:
+- They are in hour in which not much is happening
+- All cars are moving passengers. For example, during the rush hour or late at weekends
+- Just bad luck. Customers can check back later
+- Maybe the app is not available in that city. 
+
+What happend when I see a car?
+
+When we see that there are available cars, we can request one of them. That request is called as a **Dispatch**.
+
+## Surge Pricing ##
+
+These apps' use "surge pricing" algorithms to equilibrate the supply and demand when there are more riders than driver partners.  The algorithm assigns a simple "multiplier" that multiplies the standard fare in oder to derive the "surge" fare. This increment is presented to riders in the app and riders must acknowledge the higher price before a request.
+
+Why Surge Pricing?
+
+This is the best way to incentivize drivers to work certain hours. This technique help the app to increase the number of driver partners in the area. Thi is also beneficial for riders in the area since more of them are able to use the service. 
+
