@@ -26,4 +26,13 @@ Some Basics Metrics
 **Completion Ride** = The percentage of requets to the completed trips.
 **Peak hours** = Rush hours when demand is high. 
 
+**Driver Supply** = Number of drivers on the road unoccupied
+**ETA/Wait Time** = The time a customer has to wait to be picked up by a driver
+**Idle Time** = The amount of time a driver has to wait between trips
+**Peak Time** = When demand is high
+**Working Shift/Work Day** = The work shift for a driver (Normally between 8 and 10 hours).
+**Dispatch** = A request for a car, made by a potential passenger from the app
+**Fare** = Amount of money paidd by the passenger.
 
+**pETA (Predicted Estimated Time of Arrival)** = The expected time of arrival of that package
+**aETA (Average actual estimated time of arrival)** = The actual value of the time of arrival of the car.
