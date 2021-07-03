@@ -54,7 +54,35 @@ When we see that there are available cars, we can request one of them. That requ
 
 These apps' use "surge pricing" algorithms to equilibrate the supply and demand when there are more riders than driver partners.  The algorithm assigns a simple "multiplier" that multiplies the standard fare in oder to derive the "surge" fare. This increment is presented to riders in the app and riders must acknowledge the higher price before a request.
 
-Why Surge Pricing?
+### Why Surge Pricing?
 
 This is the best way to incentivize drivers to work certain hours. This technique help the app to increase the number of driver partners in the area. Thi is also beneficial for riders in the area since more of them are able to use the service. 
+
+### Nett efect of surge pricing
+
+Apps openings are good representation of those who are in the market and thus provide a nice measure of demand. During this surge pricing, the number of app openings increase a lot.
+
+The second effect of surge pricing is to allocate rides to those that value the most. While Tthe number of openings increase dramatically, the number of actual requests doesn't increase by as much. The riders see the surge pricing and decide to take an alternate form of transportation.
+
+During the surge pricing the **completition rate** (percentage of requested rides that end in a completed trip) doesn't change. Thi is because:
+
+- Surge filters out those riders only who value the app
+- Surge brings out more drivers onto the road
+- Both effects equalize supply and demand.
+
+Wait Times/ ETAas do not increase with Surge. Not only did everybody that wanted a rider get allocated one, but this allocation happened within a short amount of time.
+
+### No Surge pricing when demand is high
+
+What happen when demand is high and no surge kicks in? 
+- We might except the gap between supply and demand to be large.
+- Requests go up dramatically and then they drop drastically.
+- ETAs increase dramatically
+- Completion rates decrease dramatically.
+
+In summary, the marketplace fails from an economic perspective causing a large difference in demand and supply.
+
+## Driver Issues - Tips and Tricks
+
+There are some tips and tricks that drivers can use in order to ensure that their eranings are high. 
 
