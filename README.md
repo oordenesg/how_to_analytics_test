@@ -146,4 +146,27 @@ The training condition can be completed within the first 2 months.
 
 12. Which metric will have the greates negative effect on customer experience? A: Cancellation Rate.
 
-13. What is the main purpose of surge pricing? A: To decreate the average ETA
+13. What is the main purpose of surge pricing? A: To decreate the average ETA.
+
+14. In estimating how many trips a driver is like to be able to complete during peak business hours with this app, which metric is least relevant? A: Average number of unique drivers.
+
+15. During peak demand hours, which metric will not increase? A: Ratio of completed trips to requests.
+
+16.Which metric will affect surge pricing? A: Number of drivers. 
+
+## Short Answer Questions
+
+There are 2-3 short answer questions on the test. It is important to answer these questions using the rule of 3. 
+
+1. Give the definition
+2. Give an example
+3. Give the advantages of definition
+
+In a paragraph, explain to someone who is not familiar with the term, what surge-pricing is and the main reasons behind why it's a good choise for the app? 
+
+1. Surge pricing is a dynamic pricing strategy in which prices increase when the supply of drivers is low relative to the amount of demand. For example: On New years eve there is a lot more demand for drivers. Hence, surge pricing kicks in. This technique encourages more drivers to come out on the road.  As the economy stabilizes, more prices come back down. The main advantages of this technique are:
+
+- Maximize the number of completed rides
+- Pirce only increases whe nthere is a shortage in driver supply.
+- Gives the customer the choice to pay extra or not. So only those customers that value the app at the time are served 
+
