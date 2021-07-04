@@ -110,3 +110,32 @@ One the metrics for efficiency is fleet utilization and it is a measure of how w
 If a driver's total trip time are close to his/her online times, that means drivers are always utilized. Given this, we can conclused that:
 - They are earning money whenever they are online. This is an efficient utilization of resources. 
 - Total trip time / total online time  is a good metric for fleet utilization. 
+
+
+### General Questions 
+
+Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
+
+A driver needs to increase their daily fare amount, which metric should the driver focus on? A: Eyeballs
+
+This app needs to know how to calculate if the fleet is used with the highets effiency possible. What data should this app focus on to determine this? A: Average completed trip time and average driver supply.
+
+Give your friends an app's code and if they sign up with your code you will both get an $10 credit towards your next ride to be used within a month of sign-up. What is the best way to determine the sucess of the following promotion.
+
+From the last question, the user who gave their promo code to friends acumulated $40 worth of credit on their account. They want to make the most out of it. What would best time for them to take a driver? A: A day when demand is at its lowest.
+
+This app received 400 driver applications in a city in one month. 
+- 95% of the mhave valid licenses.
+- 80% meet the minimum age requirement
+- 60% have a car and insurance.
+- 40% pass the background check
+- 30% of the applicants didn't come to the uber driver training meeting.
+
+A: 400 x 0.95 x 0.80 x 0.60 x 0.40 = 73.
+The training condition can be completed within the first 2 months.
+
+A driver has an 8 hour shift at the end of the month and they need to double their fare amount to pay their month-end bills. What metric should the driver not use helpt increase their total fare? A: Driver supply.
+
+As a customer, what driver ratings have the possibility to cause a bad rider experience? A: High cancellation rate. 
+
+
