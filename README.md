@@ -134,8 +134,16 @@ This app received 400 driver applications in a city in one month.
 A: 400 x 0.95 x 0.80 x 0.60 x 0.40 = 73.
 The training condition can be completed within the first 2 months.
 
-A driver has an 8 hour shift at the end of the month and they need to double their fare amount to pay their month-end bills. What metric should the driver not use helpt increase their total fare? A: Driver supply.
+7. A driver has an 8 hour shift at the end of the month and they need to double their fare amount to pay their month-end bills. What metric should the driver not use helpt increase their total fare? A: Driver supply.
 
-As a customer, what driver ratings have the possibility to cause a bad rider experience? A: High cancellation rate. 
+8. As a customer, what driver ratings have the possibility to cause a bad rider experience? A: High cancellation rate. 
 
+9. Given your knowledge of surge pricing, what are the best determinants for then kick-in surge pricing in a area? A: Available dirvers is low, eyeballs are high, requests are high.
 
+10. After surge pricing has started, which of metric will not increase? A: Requets
+
+11. What are the best metrics for determining the successfulnes of a driver? A: Number of completed trips, location of pick-ups, time of pick-up, Driver rating and Revenue generated for the app.
+
+12. Which metric will have the greates negative effect on customer experience? A: Cancellation Rate.
+
+13. What is the main purpose of surge pricing? A: To decreate the average ETA
