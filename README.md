@@ -170,3 +170,45 @@ In a paragraph, explain to someone who is not familiar with the term, what surge
 - Pirce only increases whe nthere is a shortage in driver supply.
 - Gives the customer the choice to pay extra or not. So only those customers that value the app at the time are served 
 
+## Difficult Questions
+
+1. There are 3 X category drivers in our are which are 3 minutes, 6 minutes and 11 minutes away. Assume the closes driver receives our request and all X drivers accept tips 75% of the time. What is the probabilty that driver furthers from our location will accept our request?
+
+Prob that driver 3 accepts = prob. driver 1 doesn't accept the request and Prob. driver 2 doesn't accept the request and Prob. driver 3 accepts the request.
+
+Prob. that driver 3 accepts the request = 25% x 25% x 75% = 4.69%
+
+2. In Seattle, there are 1500 X drivers and 1000 Black Drivers. Every year, X and Black drivers increase by 20% and 50%, respectively. How many years will it take for there to be more Black vehicles? A: This can be done by Excel. The operations and 1500 x (1+20%) and 1000 x (1+50%). With this wil see that we need 2 years to see more Black vehicles
+
+3. The app wants to raise its fare of $10 per trip by 50%. The number of trips are expected to decrease by 20%. If Uber usually has 5000 rides per month. What will be its change in revenue after this fare increase? 
+
+(5000 x 0.80) x (10 x 1.5) - 5000*($10) = $10,000 
+
+4. The app has 4000 riders per month in a city which has an average fare of $20 per trip. If this app stars a promo, what is the maximum fare reduction percentage before this app stars to lose revenue? Assume the maximum number of trips can be only increase by 60%.
+
+4000 X $20 = $80,000 (Breakeven point. Any reduction beyond that means the app will lose money)
+4000 X (1,6) = 6400 Trips (60% increase to the number of trips)
+$80,000/6400 = $12,50 per trip. 
+$20 - $12,5 = $7.50 
+$7,50/$20 = 37.5%
+
+5. 200 applicants have applied to partner with the app. 25% of these divers do not have a driver's license. 60% of licensed drivers do not have insurance. 10% of licensed and insured drivers are younger than 21. What is the highets number of eligible candidates? 
+
+200 x 75% x 40% x 90% = 54
+
+6. 100 applicants have applied to partner with the app. 20% of all drivers do not have license. 40% of all drivers do not have insurance. 10% of all drivers are younger than 21. What is the minimum number of eligible candidates?
+
+To solve this problem is important to create a Venn Diagram.
+
+![image](https://user-images.githubusercontent.com/76072249/124373051-3984b600-dc5d-11eb-8e98-bfa0b1d3fb04.png)
+
+![image](https://user-images.githubusercontent.com/76072249/124373055-430e1e00-dc5d-11eb-9701-9643d6768ee3.png)
+
+7. Lauren, Matt and Oliver want to take a vehicle to work. They play rock-paper-scissors to decide who gets to choose their seat. If Lauren always leads with scissors, what is the probability that the reound will be draw? 
+
+Prob Lauren Scissors = 100%
+Prob Matt Scissors = 33%
+Prob Oliver Scissors = 33%
+
+Prob the first round will be a draw = 100% x 33% x 33% = 11%
+
