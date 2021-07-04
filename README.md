@@ -82,7 +82,31 @@ What happen when demand is high and no surge kicks in?
 
 In summary, the marketplace fails from an economic perspective causing a large difference in demand and supply.
 
-## Driver Issues - Tips and Tricks
+## Driver Issues 
 
+### Tips and Tricks
 There are some tips and tricks that drivers can use in order to ensure that their eranings are high. 
 
+1. Knowing the business start and end time of the city. For example, people get their day started around 8.30 AM and end around 6 PM, drivers can get on the road during that time.
+
+2. Knowing certain areas in a city. Example: Airports where requests might be available instantly is also useful for drivers
+
+### Ratings and Cancellations
+
+Not all the drivers can provide an exceptional level of service. Driver with high ratings are less likely to cause frustration for customers. 
+
+On the other hand, drivers with low cancellation rates and high request acceptance rates are more likely to have a better service.
+
+### Complaints
+
+There are many complaints about a driver. Its important to look at a number of different factors when making a decision on wheter to keep him or her in the system.  Where he o she normally drives and his o her rating. 
+
+Depending on the city or the app. Some companies require city knowledge from the drivers and require them to pass a screening test as well.
+
+## Fleet Utilization
+
+One the metrics for efficiency is fleet utilization and it is a measure of how well you are using the resources you have. 
+
+If a driver's total trip time are close to his/her online times, that means drivers are always utilized. Given this, we can conclused that:
+- They are earning money whenever they are online. This is an efficient utilization of resources. 
+- Total trip time / total online time  is a good metric for fleet utilization. 
