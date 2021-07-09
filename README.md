@@ -119,7 +119,13 @@ If a driver's total trip time are close to his/her online times, that means driv
 4. What hour of the day from the 15 day period in February had the last number of requests? A: 01:00 to 02:00
 5. What is percentage of all the eyeballs that ocurred on Friday? A: 15%
 6. What is the weighted average of requests per driver for the 15 day data set? A: 2.4
-7. 
+7. Driver's schedules area drafted in 4 hour shifts, and Uber wants to change this to 8 hour shifts. Calculate which shift has the highest requests for the 15 day data set. A: 08:00 to 15:00
+8. When the number of unique drivers increases so does the number of eyeballs? A: False
+9. On which day of the ratio the highest for the number of completed trips to requests? A: February 15,2011
+10. If you have 10 drivers to add ton one hour throughout the 15 data set, which hour would you add them to? A: 03:00
+11. How many hours of data are in this data set? A: 336
+12. Use the data to determine when the best and-of-day is for drivers. A: 03:00
+13. Which was the busiest 4 hour period in the data? A: 12-15
 
 
 ### General Questions 
