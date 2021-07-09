@@ -1,4 +1,4 @@
-# how_to_analytics_test
+# Analytics Test
 
 
 Total of 32 questions divided as 28 multiple choice and 4 text questions. These 4 text questions contain 2 short answers questions and 2 long answers questions.
@@ -6,7 +6,7 @@ Total of 32 questions divided as 28 multiple choice and 4 text questions. These 
 There are different versions of this test. However, in general, this test is quite similar. 
 
 
-## Theory
+## 1. Theory
 
 On-Demand economy is defined as the economic activity created by tech companies. Some apps use different platforms that connects people or drives. To pass the test it is important to understand the business. Let's, imagine that we are analyzing data from a random driver app. In this ecosystem we have different actors, one of them is the drivers.
 
@@ -16,7 +16,7 @@ In this app usually fares are 80% to drives and 20% to the company. Payment is s
 **Demand** = **Riders** or **Passengers**
 **Supply** = **Drivers** or **Driver Partners** 
 
-## Some Basics Metrics
+### 1.1 Some Basics Metrics
 
 **App Openings (Eyeballs)** = Customers who lauch the app looking for a riders. It is a good measure of demand
 
@@ -37,7 +37,7 @@ In this app usually fares are 80% to drives and 20% to the company. Payment is s
 **pETA (Predicted Estimated Time of Arrival)** = The expected time of arrival of that package
 **aETA (Average actual estimated time of arrival)** = The actual value of the time of arrival of the car.
 
-## Work Flow for the Customers ##
+### 1.2 Work Flow for the Customers
 
 Why some customers do not see any car?
 There are some reasons:
@@ -47,18 +47,17 @@ There are some reasons:
 - Maybe the app is not available in that city. 
 
 What happend when I see a car?
-
 When we see that there are available cars, we can request one of them. That request is called as a **Dispatch**.
 
-## Surge Pricing ##
+### 1.3 Surge Pricing ##
 
 These apps' use "surge pricing" algorithms to equilibrate the supply and demand when there are more riders than driver partners.  The algorithm assigns a simple "multiplier" that multiplies the standard fare in oder to derive the "surge" fare. This increment is presented to riders in the app and riders must acknowledge the higher price before a request.
 
-### Why Surge Pricing?
+#### 1.3.1 Why Surge Pricing?
 
 This is the best way to incentivize drivers to work certain hours. This technique help the app to increase the number of driver partners in the area. Thi is also beneficial for riders in the area since more of them are able to use the service. 
 
-### Nett efect of surge pricing
+#### 1.3.2 Nett efect of surge pricing
 
 Apps openings are good representation of those who are in the market and thus provide a nice measure of demand. During this surge pricing, the number of app openings increase a lot.
 
@@ -72,7 +71,7 @@ During the surge pricing the **completition rate** (percentage of requested ride
 
 Wait Times/ ETAas do not increase with Surge. Not only did everybody that wanted a rider get allocated one, but this allocation happened within a short amount of time.
 
-### No Surge pricing when demand is high
+#### 1.3.3 No Surge pricing when demand is high
 
 What happen when demand is high and no surge kicks in? 
 - We might except the gap between supply and demand to be large.
@@ -82,28 +81,28 @@ What happen when demand is high and no surge kicks in?
 
 In summary, the marketplace fails from an economic perspective causing a large difference in demand and supply.
 
-## Driver Issues 
+### 1.4 Driver Issues 
 
-### Tips and Tricks
+#### 1.4.1 Tips and Tricks
 There are some tips and tricks that drivers can use in order to ensure that their eranings are high. 
 
 1. Knowing the business start and end time of the city. For example, people get their day started around 8.30 AM and end around 6 PM, drivers can get on the road during that time.
 
 2. Knowing certain areas in a city. Example: Airports where requests might be available instantly is also useful for drivers
 
-### Ratings and Cancellations
+#### 1.4.2 Ratings and Cancellations
 
 Not all the drivers can provide an exceptional level of service. Driver with high ratings are less likely to cause frustration for customers. 
 
 On the other hand, drivers with low cancellation rates and high request acceptance rates are more likely to have a better service.
 
-### Complaints
+#### 1.4.3 Complaints
 
 There are many complaints about a driver. Its important to look at a number of different factors when making a decision on wheter to keep him or her in the system.  Where he o she normally drives and his o her rating. 
 
 Depending on the city or the app. Some companies require city knowledge from the drivers and require them to pass a screening test as well.
 
-## Fleet Utilization
+### 1.5 Fleet Utilization
 
 One the metrics for efficiency is fleet utilization and it is a measure of how well you are using the resources you have. 
 
@@ -111,7 +110,7 @@ If a driver's total trip time are close to his/her online times, that means driv
 - They are earning money whenever they are online. This is an efficient utilization of resources. 
 - Total trip time / total online time  is a good metric for fleet utilization. 
 
-### Questions CSV1
+### 2. Questions CSV1
 
 1. Name the 72 hour period with the highest amount of zeroes? A - Feb 4th to Feb 6th
 2. Between the 1st and 5th of February, which dates has the most completed tips? A: February 3rd
@@ -128,7 +127,7 @@ If a driver's total trip time are close to his/her online times, that means driv
 13. Which was the busiest 4 hour period in the data? A: 12-15
 
 
-### General Questions 
+### 3. General Questions 
 
 Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
 
@@ -170,7 +169,7 @@ The training condition can be completed within the first 2 months.
 
 16.Which metric will affect surge pricing? A: Number of drivers. 
 
-## Short Answer Questions
+### 4. Short Answer Questions
 
 There are 2-3 short answer questions on the test. It is important to answer these questions using the rule of 3. 
 
@@ -186,7 +185,7 @@ In a paragraph, explain to someone who is not familiar with the term, what surge
 - Pirce only increases whe nthere is a shortage in driver supply.
 - Gives the customer the choice to pay extra or not. So only those customers that value the app at the time are served 
 
-## Difficult Questions
+### 5. Difficult Questions
 
 1. There are 3 X category drivers in our are which are 3 minutes, 6 minutes and 11 minutes away. Assume the closes driver receives our request and all X drivers accept tips 75% of the time. What is the probabilty that driver furthers from our location will accept our request?
 
