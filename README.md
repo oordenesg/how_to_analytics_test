@@ -110,7 +110,9 @@ If a driver's total trip time are close to his/her online times, that means driv
 - They are earning money whenever they are online. This is an efficient utilization of resources. 
 - Total trip time / total online time  is a good metric for fleet utilization. 
 
-### 2. Questions CSV1
+### 2. Questions CSV's
+
+#### 2.1 CSV1
 
 1. Name the 72 hour period with the highest amount of zeroes? A - Feb 4th to Feb 6th
 2. Between the 1st and 5th of February, which dates has the most completed tips? A: February 3rd
@@ -126,6 +128,7 @@ If a driver's total trip time are close to his/her online times, that means driv
 12. Use the data to determine when the best and-of-day is for drivers. A: 03:00
 13. Which was the busiest 4 hour period in the data? A: 12-15
 
+#### 2.2 CSV2
 
 ### 3. General Questions 
 
