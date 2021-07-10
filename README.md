@@ -175,7 +175,7 @@ If a driver's total trip time are close to his/her online times, that means driv
 
 15. During peak demand hours, which metric will not increase? A: Ratio of completed trips to requests.
 
-16.Which metric will affect surge pricing? A: Number of drivers. 
+16. Which metric will affect surge pricing? A: Number of drivers. 
 
 ### 4. Short Answer Questions
 
