@@ -241,11 +241,11 @@ $7,50/$20 = 37.5%
 To solve this problem is important to create a Venn Diagram.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/124373051-3984b600-dc5d-11eb-8e98-bfa0b1d3fb04.png" width = "450" height = "180">
+<img src = "https://user-images.githubusercontent.com/76072249/124373051-3984b600-dc5d-11eb-8e98-bfa0b1d3fb04.png" width = "350" height = "180">
 </p>
   
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/124373055-430e1e00-dc5d-11eb-9701-9643d6768ee3.png" width = "450" height = "180">
+<img src = "https://user-images.githubusercontent.com/76072249/124373055-430e1e00-dc5d-11eb-9701-9643d6768ee3.png" width = "350" height = "180">
 </p>
 
 
