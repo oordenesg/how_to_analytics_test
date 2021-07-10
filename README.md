@@ -240,9 +240,14 @@ $7,50/$20 = 37.5%
 
 To solve this problem is important to create a Venn Diagram.
 
-![image](https://user-images.githubusercontent.com/76072249/124373051-3984b600-dc5d-11eb-8e98-bfa0b1d3fb04.png)
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/124373051-3984b600-dc5d-11eb-8e98-bfa0b1d3fb04.png" width = "450" height = "180">
+</p>
+  
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/124373055-430e1e00-dc5d-11eb-9701-9643d6768ee3.png" width = "450" height = "180">
+</p>
 
-![image](https://user-images.githubusercontent.com/76072249/124373055-430e1e00-dc5d-11eb-9701-9643d6768ee3.png)
 
 7. Lauren, Matt and Oliver want to take a vehicle to work. They play rock-paper-scissors to decide who gets to choose their seat. If Lauren always leads with scissors, what is the probability that the reound will be draw? 
 
