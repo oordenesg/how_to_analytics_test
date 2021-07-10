@@ -147,23 +147,15 @@ If a driver's total trip time are close to his/her online times, that means driv
 
 1. Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
 
-A driver needs to increase their daily fare amount, which metric should the driver focus on? A: Eyeballs
+2. A driver needs to increase their daily fare amount, which metric should the driver focus on? A: Eyeballs
 
-This app needs to know how to calculate if the fleet is used with the highets effiency possible. What data should this app focus on to determine this? A: Average completed trip time and average driver supply.
+3. This app needs to know how to calculate if the fleet is used with the highets effiency possible. What data should this app focus on to determine this? A: Average completed trip time and average driver supply.
 
-Give your friends an app's code and if they sign up with your code you will both get an $10 credit towards your next ride to be used within a month of sign-up. What is the best way to determine the sucess of the following promotion.
+4. Give your friends an app's code and if they sign up with your code you will both get an $10 credit towards your next ride to be used within a month of sign-up. What is the best way to determine the sucess of the following promotion. A: The user gives their code to 4 friends and all of them signup and complete trips using the $10 credit. 
 
-From the last question, the user who gave their promo code to friends acumulated $40 worth of credit on their account. They want to make the most out of it. What would best time for them to take a driver? A: A day when demand is at its lowest.
+5. From the last question, the user who gave their promo code to friends acumulated $40 worth of credit on their account. They want to make the most out of it. What would best time for them to take a driver? A: A day when demand is at its lowest. A: Tuesday at 2pm
 
-This app received 400 driver applications in a city in one month. 
-- 95% of the mhave valid licenses.
-- 80% meet the minimum age requirement
-- 60% have a car and insurance.
-- 40% pass the background check
-- 30% of the applicants didn't come to the uber driver training meeting.
-
-A: 400 x 0.95 x 0.80 x 0.60 x 0.40 = 73.
-The training condition can be completed within the first 2 months.
+6. This app received 400 driver applications in a city in one month. 95% of the mhave valid licenses. 80% meet the minimum age requirement. 60% have a car and insurance. 40% pass the background check. 30% of the applicants didn't come to the uber driver training meeting. A: 400 x 0.95 x 0.80 x 0.60 x 0.40 = 73. Note that the training condition can be completed within the first 2 months.
 
 7. A driver has an 8 hour shift at the end of the month and they need to double their fare amount to pay their month-end bills. What metric should the driver not use helpt increase their total fare? A: Driver supply.
 
@@ -187,19 +179,25 @@ The training condition can be completed within the first 2 months.
 
 ### 4. Short Answer Questions
 
+#### 4.1 Introduction
+
 There are 2-3 short answer questions on the test. It is important to answer these questions using the rule of 3. 
 
 1. Give the definition
 2. Give an example
 3. Give the advantages of definition
 
-In a paragraph, explain to someone who is not familiar with the term, what surge-pricing is and the main reasons behind why it's a good choise for the app? 
+#### 4.2 Questions
 
-1. Surge pricing is a dynamic pricing strategy in which prices increase when the supply of drivers is low relative to the amount of demand. For example: On New years eve there is a lot more demand for drivers. Hence, surge pricing kicks in. This technique encourages more drivers to come out on the road.  As the economy stabilizes, more prices come back down. The main advantages of this technique are:
+1. In a paragraph, explain to someone who is not familiar with the term, what surge-pricing is and the main reasons behind why it's a good choise for the app? 
+
+A: Surge pricing is a dynamic pricing strategy in which prices increase when the supply of drivers is low relative to the amount of demand. For example: On New years eve there is a lot more demand for drivers. Hence, surge pricing kicks in. This technique encourages more drivers to come out on the road.  As the economy stabilizes, more prices come back down. The main advantages of this technique are:
 
 - Maximize the number of completed rides
 - Pirce only increases whe nthere is a shortage in driver supply.
 - Gives the customer the choice to pay extra or not. So only those customers that value the app at the time are served 
+
+2. 
 
 ### 5. Difficult Questions
 
