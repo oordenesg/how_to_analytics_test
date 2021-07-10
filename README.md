@@ -136,13 +136,16 @@ If a driver's total trip time are close to his/her online times, that means driv
 
 3. How many drivers will be included in promotion 1 and not in promotion 2? A: 0
 
-4. This App wants to give out awards to its drivers. Please determine which drivers will be given awards. Award criteria: Complete more than 23 trips in an 8 hour shift with an 80% acceptance rate and a rating of 4 or 5. A: Driver 83
+4. This App wants to give out awards to its drivers. Please determine which drivers will be given awards. Award criteria: Complete more than 23 trips in an 8 hour shift with an 80% acceptance rate and a rating of 4 or 5. A: Driver 83.
 
+5. Calculate the net income for a driver in a year. Income: $300/day gross and work 5 days a week and has 2 weeks holiday/year. Expenses: Gas is $100/week, insurance is $400/month and Prius lease is $300/week. A: $50,200
+
+6. A driver wants to upgrade from X to Black driver. The driver needs to purchase a new vehicle. They want to upgrade to a 2015 Hyundai Sonata. How much more a week will they have to make to earn the same net income per year? Resale value of Prius is $12,000 and Hyundai Sonata costs is $61,500. A: $690
 
 
 ### 3. General Questions 
 
-Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
+1. Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
 
 A driver needs to increase their daily fare amount, which metric should the driver focus on? A: Eyeballs
 
