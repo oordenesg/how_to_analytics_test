@@ -130,6 +130,16 @@ If a driver's total trip time are close to his/her online times, that means driv
 
 #### 2.2 CSV2
 
+1. The 4th of July is coming up and the maximum fleet is needed. We need to determine which promotion to run to get more drivers on the road. How much will drivers be paid with promotion 1? Promotion 1: $100 bonus to each driver who is online for at least 5 hours, has accepter 78% of requests, completes 15 trips, and has a 4 or 5 rating at this time. A: $800
+
+2. How much will be paid to the drivers for promotion 2? Promotion 2: A $5 bonus per trip to each driver that completes at least 15 trips and has a rating of at least 4 or 5 for these trips. A: $1500
+
+3. How many drivers will be included in promotion 1 and not in promotion 2? A: 0
+
+4. This App wants to give out awards to its drivers. Please determine which drivers will be given awards. Award criteria: Complete more than 23 trips in an 8 hour shift with an 80% acceptance rate and a rating of 4 or 5. A: Driver 83
+
+
+
 ### 3. General Questions 
 
 Wich metric is most helpful for a driver deciding which hour to go online and accept requests?  A: Eyeballs are high, Surge Pricing and Business day.
