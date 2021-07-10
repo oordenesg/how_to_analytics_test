@@ -197,7 +197,18 @@ A: Surge pricing is a dynamic pricing strategy in which prices increase when the
 - Pirce only increases whe nthere is a shortage in driver supply.
 - Gives the customer the choice to pay extra or not. So only those customers that value the app at the time are served 
 
-2. 
+2. In 3 to 5 sentences, convice a chauffeur driver to switch to become an official driver (in the App).
+
+A: I strongly believe that you should become a driver partner. The reasons for the same are as follows:
+- As a driver, you are own boss and you get to set your own working hours.
+- Requests for your service are made through the app and you can choose to accept a customer or not via the same.
+- Transactions are fast and easy to conduct as you don't have to accept credit cards or cash. Payments are managed through the app and are secure. 
+
+3. In a short paragraph, explain how to engage local community groups with this apps.
+- Build relationships and partner with organizations (like organizations against drunk driving) to encourage more frequent use of the app.
+- Offer donations to the local community group for any signups to the app. At the same, I'd offer promo codes for volunteers of the organization to encourage more usage.
+
+4. How should you respond to the city officials claiming that this app disadvantages older drivers unfamility with technology? 
 
 ### 5. Difficult Questions
 
